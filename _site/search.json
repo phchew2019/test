@@ -12,5 +12,26 @@
     "title": "GISProject",
     "section": "",
     "text": "Welcome to our GIS Project Website!!!"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Intro",
+    "section": "",
+    "text": "This is"
+  },
+  {
+    "objectID": "intro.html#project-tasks",
+    "href": "intro.html#project-tasks",
+    "title": "Intro",
+    "section": "Project Tasks",
+    "text": "Project Tasks\nThe project tasks are as follows:\n\nto compile the necessary data\nto derive new data sets"
+  },
+  {
+    "objectID": "intro.html#the-data",
+    "href": "intro.html#the-data",
+    "title": "Intro",
+    "section": "The data",
+    "text": "The data\nThe following dataset will be used:"
   }
 ]
